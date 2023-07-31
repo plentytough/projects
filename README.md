@@ -1,5 +1,5 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+英語版しりとりプログラムです。
+まずC:\Shiritori Filesディレクトリを作成の上EnglishDictionary.txtファイルを配置してください。
+半角アルファベットのみ解答として有効です。
+最低3文字以上の英単語のみ解答として有効です。
+双方10回ずつ、計20回解答できた場合は引き分けとなります。
